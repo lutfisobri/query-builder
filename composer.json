@@ -1,0 +1,17 @@
+{
+    "name": "riyu/database",
+    "description": "Simple Query Builder",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Riyu\\Database\\": "Riyu/Database/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lutfisobri",
+            "email": "lutfisobri@gmail.com"
+        }
+    ],
+    "require": {}
+}
