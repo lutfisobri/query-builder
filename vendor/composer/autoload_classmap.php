@@ -7,15 +7,4 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
-    'Riyu\\Database\\Connection\\Connection' => $baseDir . '/Riyu/Database/Connection/Connection.php',
-    'Riyu\\Database\\Connection\\Event' => $baseDir . '/Riyu/Database/Connection/Event.php',
-    'Riyu\\Database\\Connection\\Manager' => $baseDir . '/Riyu/Database/Connection/Manager.php',
-    'Riyu\\Database\\Connection\\Storage' => $baseDir . '/Riyu/Database/Connection/Storage.php',
-    'Riyu\\Database\\Interfaces\\Build' => $baseDir . '/Riyu/Database/Interfaces/Build.php',
-    'Riyu\\Database\\Interfaces\\ConnectionManager' => $baseDir . '/Riyu/Database/Interfaces/ConnectionManager.php',
-    'Riyu\\Database\\Interfaces\\QueryInterface' => $baseDir . '/Riyu/Database/Interfaces/QueryInterface.php',
-    'Riyu\\Database\\Utils\\Model' => $baseDir . '/Riyu/Database/Utils/Model.php',
-    'Riyu\\Database\\Utils\\Query\\Builder' => $baseDir . '/Riyu/Database/Utils/Query/Builder.php',
-    'Riyu\\Database\\Utils\\Query\\Grammar' => $baseDir . '/Riyu/Database/Utils/Query/Grammar.php',
-    'Riyu\\Database\\Utils\\Query\\Query' => $baseDir . '/Riyu/Database/Utils/Query/Query.php',
 );

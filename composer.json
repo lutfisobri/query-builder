@@ -2,6 +2,8 @@
     "name": "riyu/database",
     "description": "Simple Query Builder",
     "type": "library",
+    "keywords": ["database", "query", "builder", "mysql", "query builder", "riyu"],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Riyu\\Database\\": "Riyu/Database/"
@@ -13,5 +15,9 @@
             "email": "lutfisobri@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }

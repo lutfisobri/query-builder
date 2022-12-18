@@ -22,17 +22,6 @@ class ComposerStaticInit4c595ae068c05273cf4dd30e4de7bea3
 
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
-        'Riyu\\Database\\Connection\\Connection' => __DIR__ . '/../..' . '/Riyu/Database/Connection/Connection.php',
-        'Riyu\\Database\\Connection\\Event' => __DIR__ . '/../..' . '/Riyu/Database/Connection/Event.php',
-        'Riyu\\Database\\Connection\\Manager' => __DIR__ . '/../..' . '/Riyu/Database/Connection/Manager.php',
-        'Riyu\\Database\\Connection\\Storage' => __DIR__ . '/../..' . '/Riyu/Database/Connection/Storage.php',
-        'Riyu\\Database\\Interfaces\\Build' => __DIR__ . '/../..' . '/Riyu/Database/Interfaces/Build.php',
-        'Riyu\\Database\\Interfaces\\ConnectionManager' => __DIR__ . '/../..' . '/Riyu/Database/Interfaces/ConnectionManager.php',
-        'Riyu\\Database\\Interfaces\\QueryInterface' => __DIR__ . '/../..' . '/Riyu/Database/Interfaces/QueryInterface.php',
-        'Riyu\\Database\\Utils\\Model' => __DIR__ . '/../..' . '/Riyu/Database/Utils/Model.php',
-        'Riyu\\Database\\Utils\\Query\\Builder' => __DIR__ . '/../..' . '/Riyu/Database/Utils/Query/Builder.php',
-        'Riyu\\Database\\Utils\\Query\\Grammar' => __DIR__ . '/../..' . '/Riyu/Database/Utils/Query/Grammar.php',
-        'Riyu\\Database\\Utils\\Query\\Query' => __DIR__ . '/../..' . '/Riyu/Database/Utils/Query/Query.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
