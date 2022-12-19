@@ -3,7 +3,7 @@
         'name' => 'riyu/database',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '18fda766854d8957fc4961bd26d14449146ee0cc',
+        'reference' => 'c6f3a462b36fbbb9b85c978dbe560e9c57abe33f',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'riyu/database' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '18fda766854d8957fc4961bd26d14449146ee0cc',
+            'reference' => 'c6f3a462b36fbbb9b85c978dbe560e9c57abe33f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
